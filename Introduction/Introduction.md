@@ -92,7 +92,7 @@ Imagine Kubernetes as the mayor of a smart city (your cluster):
 Just like a good mayor ensures the city runs smoothly, Kubernetes ensures your applications run efficiently, safely, and reliably.
 
 <div align="center" style="margin: 30px 0;">
-  <img src="SimpleExample.png" alt="Kubernetes Architecture Diagram" width="1000" style="border-radius: 10px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); border: 2px solid #e9ecef;">
+  <img src="SimpleExample.png" alt="Kubernetes Architecture Diagram" width="600">
 </div>
 
 ## 💡 Why Should You Learn Kubernetes?
